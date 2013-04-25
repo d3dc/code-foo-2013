@@ -1,7 +1,9 @@
 IGN's Code-Foo 2013
 =============
 <br />
+
 **Programming answers are completed using Java.**
+
 <br />
 1. Create a 2-5 minute video introducing yourself and showing your passion for IGN and the Code-Foo program.
   
@@ -32,7 +34,7 @@ So:
 <br />
 3. Write a program to find the given words from the included word search.
 
-  See [WordSearch](https://github.com/d3dc/code-foo-2013/q3/))
+  See [WordSearch](https://github.com/d3dc/code-foo-2013/q3/)
 
 <br />
 I completed the Back-end set of questions
