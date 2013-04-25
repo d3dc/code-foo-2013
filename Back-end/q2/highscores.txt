@@ -1,0 +1,11 @@
+Sam 9000
+Quin 0
+Brandon 55
+Mandy 85
+Sarafina 42
+Sam 9001
+GeorgeLopez 400
+Clint 245
+ASS 1000
+CAT 2000
+DOG 1234
