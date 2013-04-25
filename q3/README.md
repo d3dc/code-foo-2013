@@ -4,7 +4,7 @@ Question 3
 
 <br />
 
-  I wrote a java class [wordSearch](https://github.com/d3dc/code-foo-2013/blob/master/q3/wordSearch.java). The class has methods to manipulate and solve the puzzle. This is wrapped in a simple command-line interface [WordSearchSolver](https://github.com/d3dc/code-foo-2013/blob/master/word-search/WordSearchSolver.java).  
+  I wrote a java class [wordSearch](https://github.com/d3dc/code-foo-2013/blob/master/q3/wordSearch.java). The class has methods to manipulate and solve the puzzle. This is wrapped in a simple command-line interface [WordSearchSolver](https://github.com/d3dc/code-foo-2013/blob/master/q3/WordSearchSolver.java).  
 <br />
 
     To compile: javac WordSearchSolver.java

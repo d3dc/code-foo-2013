@@ -34,7 +34,7 @@ So:
 <br />
 3. Write a program to find the given words from the included word search.
 
-  See [WordSearch](https://github.com/d3dc/code-foo-2013/q3/)
+  See [WordSearch](https://github.com/d3dc/code-foo-2013/tree/master/q3/)
 
 <br />
 I completed the Back-end set of questions
@@ -42,13 +42,13 @@ I completed the Back-end set of questions
 
 4. Write a program that searches a family tree for members that match name and/or generation. 
   
-  See [FamilyTree](https://github.com/d3dc/code-foo-2013/Back-end/q1/)
+  See [FamilyTree](https://github.com/d3dc/code-foo-2013/tree/master/Back-end/q1/)
 
 
 5. Write a sorting algorithm that can sort _n_ number of high scores (`float` Score, `string` Name) by score.
 
-  See [HighScore](https://github.com/d3dc/code-foo-2013/Back-end/q2/)
+  See [HighScore](https://github.com/d3dc/code-foo-2013/tree/master/Back-end/q2/)
 
 6. Given two three-letter words, write a program that will determine the amount of "moves" it takes to change one word to the other.
 
-  See [ThreeLetterWords](https://github.com/d3dc/code-foo-2013/Back-end/q3/)
+  See [ThreeLetterWords](https://github.com/d3dc/code-foo-2013/tree/master/Back-end/q3/)
