@@ -5,13 +5,13 @@ IGN's Code-Foo 2013
 **Programming answers are completed using Java.**
 
 <br />
->#1. Create a 2-5 minute video introducing yourself and showing your passion for IGN and the Code-Foo program.
+**1. Create a 2-5 minute video introducing yourself and showing your passion for IGN and the Code-Foo program.**
 
   Will be uploaded soon.
 
 
 <br />
->#2. How many gamers are in the San Francisco Bay Area? Describe each step in your thought process.  
+**2. How many gamers are in the San Francisco Bay Area? Describe each step in your thought process.**
   
   The number of gamers is going to be some subset of the total population. From [Bay Area Census *via Wikipedia*](http://www.bayareacensus.ca.gov/bayarea.htm):
                                                                     
@@ -32,7 +32,7 @@ So:
 
 
 <br />
->#3. Write a program to find the given words from the included word search.
+**3. Write a program to find the given words from the included word search.**
 
   See [WordSearch](https://github.com/d3dc/code-foo-2013/tree/master/q3/)
 
@@ -40,15 +40,15 @@ So:
 I completed the Back-end set of questions
 --------
 
->#4. Write a program that searches a family tree for members that match name and/or generation. 
+**4. Write a program that searches a family tree for members that match name and/or generation.**
   
   See [FamilyTree](https://github.com/d3dc/code-foo-2013/tree/master/Back-end/q1/)
 
 
->#5. Write a sorting algorithm that can sort _n_ number of high scores (`float` Score, `string` Name) by score.
+**5. Write a sorting algorithm that can sort _n_ number of high scores (`float` Score, `string` Name) by score.**
 
   See [HighScore](https://github.com/d3dc/code-foo-2013/tree/master/Back-end/q2/)
 
->#6. Given two three-letter words, write a program that will determine the amount of "moves" it takes to change one word to the other.
+**6. Given two three-letter words, write a program that will determine the amount of "moves" it takes to change one word to the other.**
 
   See [ThreeLetterWords](https://github.com/d3dc/code-foo-2013/tree/master/Back-end/q3/)
