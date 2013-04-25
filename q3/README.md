@@ -13,8 +13,8 @@ Question 3
 
 <br />
 A correct file has the format:
-	 >The first part of the file contains a matrix of N rows and M columns. 
-	 Letters in the same row are separated by a tab (\t). Each row is separated by a newline.
-     <br />
-     >The list of words to find is below the matrix, delineated by a blank line followed by "Words to find:".
+
+>The first part of the file contains a matrix of N rows and M columns. 
+>Letters in the same row are separated by a tab (\t). Each row is separated by a newline.
+>The list of words to find is below the matrix, delineated by a blank line followed by "Words to find:".
 

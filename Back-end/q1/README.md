@@ -72,7 +72,7 @@ A FamilyTree can:
 A standard Breadth-First Search has worst-case time-bound O(n). For an input of size n, each of at most n-1 children are explored. 
 
 
-In FamilyMember, children are added to each spouses to allow for e.g. stepchildren children of each spouse. To prevent duplicate children from being added to the queue, my algorithm checks to see if the queue already contains that child. This causes additional comparisons. There can be at most n-2 children already in the queue, meaning this check takes O(n) time.
+In FamilyMember, children are added to each spouses to allow for e.g. stepchildren. To prevent duplicate children from being added to the queue, my algorithm checks to see if the queue already contains that child. This causes additional comparisons. There can be at most n-2 children already in the queue, meaning this check takes O(n) time.
 
 
 <br />
