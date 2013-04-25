@@ -89,8 +89,8 @@ public class HighScore {
 			while (fileScanner.hasNextLine()) {
 				playerScore temp = new playerScore();
 				
-				temp.name = fileScanner.next();
 				temp.score = fileScanner.nextFloat();
+				temp.name = fileScanner.next();
 				
 				table.add(temp);
 			}
