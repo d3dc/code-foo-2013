@@ -27,7 +27,7 @@ I used  quickSort on a collection of tuples represented by a playerScore class.
 
 <br />
 
-quickSort has average and worst case performance O(n log n).
+quickSort has average case performance O(n log n) and worst case performance O(n^2).
 
 it has a worst case space complexity of O(n).
 
@@ -37,9 +37,11 @@ it has a worst case space complexity of O(n).
 
 <br />
 
-A quicksort performs as least as good as most sorting algorithms: O(n log n)). On modern hardware, with a ram based collection for our scores, [Wikipedia](http://en.wikipedia.org/wiki/Quicksort) states quicksort will outperform other O(n log n) algorithms.
+A quicksort has average case performance as good as most sorting algorithms: O(n log n)). On modern hardware, with a ram based collection for our scores, [Wikipedia](http://en.wikipedia.org/wiki/Quicksort) states quicksort will sometimes outperform other O(n log n) algorithms. 
 
-The quicksort algorithm I implemented manipulates the collection in place, but does not use a tail call. This means the stack depth isn't bounded, and may need up to O(n) space. Using tail recursion, this space complexity could be reduced to O(log n).
+Using mergesort would guarantee a worst case performance of O(n log n), but will occasionally be slower than quicksort.
+
+The quicksort algorithm I implemented manipulates the collection in place, but does not use a tail call. This means the stack depth isn't bounded, and may need up to O(n) space. Using tail recursion, this space complexity could be reduced to O(log n). Mergsort and other algorithms take O(n) worst case space.
 
 <br />
 <br />
