@@ -16,7 +16,7 @@ IGN's Code-Foo 2013
   The number of gamers is going to be some subset of the total population. From [Bay Area Census *via Wikipedia*](http://www.bayareacensus.ca.gov/bayarea.htm):
                                                                     
   - The Total population of the San Francisco Bay Area is: **7.15 million people**
-  - Whom comprise **2,608,023 households**
+  - Who comprise **2,608,023 households**
  
   - According to [theesa.com](http://www.theesa.com/facts/), 72% of households play computer or video games.
 
