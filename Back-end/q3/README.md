@@ -15,6 +15,7 @@ The three-letter-words.txt dictionary is loaded by default.
 <br />
 
 A valid input file has the format:  
-  *One three-letter word per line
+  
+* One three-letter word per line
 
 <br />
