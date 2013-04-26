@@ -7,7 +7,7 @@ IGN's Code-Foo 2013
 <br />
 **1. Create a 2-5 minute video introducing yourself and showing your passion for IGN and the Code-Foo program.**
 
-  Will be uploaded soon.
+  Google Drive link in email.
 
 
 <br />
