@@ -11,9 +11,10 @@ Back-end - Question 2
 
 <br />
 
-A valid input file has the format:  
-  *One score entry per line.
-  *Each entry has the format "score name"
+A valid input file has the format:
+
+- One score entry per line.
+- Each entry has the format "score name"
 
 >#What algorithm did you use?
 
